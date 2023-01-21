@@ -1,0 +1,7 @@
+def age(name, age):
+  print("My name is", name, "and age is", age)
+
+
+age("Arslan", 23)
+age("Ahtisham", 25)
+age("Ahsan", 28)
